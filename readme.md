@@ -5,6 +5,8 @@
 This is a complete project Laravel DataTable. Make your donwload. Below I show you how I did.
 Simple Laravel DataTable. It's so easy do this instalation. Enjoy
 
+Example: http://opba.com.br/dataTableLaravel/
+
 ## How I did Install
 
 First, create a folder on app directory named lib
